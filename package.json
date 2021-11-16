@@ -1,0 +1,23 @@
+{
+  "name": "paraentregar",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@node-wot/binding-mqtt": "^0.7.8",
+    "@node-wot/core": "^0.7.8",
+    "crypto": "^1.0.1",
+    "express": "^4.17.1",
+    "jade": "^1.11.0",
+    "mosca": "^2.8.3",
+    "node-rsa": "^1.1.1"
+  },
+  "devDependencies": {
+    "lerna": "^4.0.0"
+  }
+}

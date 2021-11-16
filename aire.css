@@ -1,0 +1,26 @@
+html, body{
+    
+    background: url('http://i.stack.imgur.com/jGlzr.png');
+    
+}
+
+.container{
+    
+    border-radius: 2rem;
+    background-color: white;
+    
+    
+}
+
+.container2{
+    margin-top: 2rem;
+    background: #5A6363 ;
+    height: 5rem;
+    width: 10rem;
+    padding-top: 5rem;
+    
+}
+
+
+
+

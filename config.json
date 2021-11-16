@@ -1,0 +1,4 @@
+{
+    "allowedIDs" : "[1, 2, 3]",
+    "mando2" : "require('./mando2')}"
+}

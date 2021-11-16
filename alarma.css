@@ -1,0 +1,41 @@
+html, body{
+    background: url('http://i.stack.imgur.com/jGlzr.png');
+}
+
+@keyframes glowingRed {
+    0% { background-color: #FF1700; box-shadow: 0 0 3px #FF1700; }
+    50% { background-color: #F5594A; box-shadow: 0 0 10px #F5594A; }
+    100% { background-color: #FF1700; box-shadow: 0 0 3px #FF1700; }
+}
+
+@keyframes glowingGreen {
+    0% { background-color: #2BCC37; box-shadow: 0 0 3px #2BCC37; }
+    50% { background-color: #70DF78; box-shadow: 0 0 10px #70DF78; }
+    100% { background-color: #2BCC37; box-shadow: 0 0 3px #2BCC37; }
+}
+
+
+.buttonRed {
+    margin-top: 6rem;
+    animation: glowingRed 1500ms infinite;
+    border-radius: 100%;
+    width: 5rem;
+    height: 5rem;
+}
+
+.buttonGreen {
+    margin-top: 6rem;
+    animation: glowingGreen 1500ms infinite;
+    border-radius: 100%;
+    width: 5rem;
+    height: 5rem;
+}
+
+.container{
+    border-radius: 3rem!important;
+}
+
+
+.row{
+    margin-top: 3rem!important;
+}

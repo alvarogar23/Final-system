@@ -1,0 +1,65 @@
+html, body{
+    
+    background: url('http://i.stack.imgur.com/jGlzr.png');
+    
+}
+
+.container{
+    margin-top: 2rem;
+    background: #E8ECEC ;
+    border-radius: 3rem;
+    height: 35rem;
+    width: 15rem;
+    padding-top: 5rem;
+    
+}
+
+.input1{
+    color: black;
+    font-weight: bold;
+    font-size: 2rem;
+    background-color: #6C757D;
+    border-radius: 2rem;
+    border-color: black;
+    height: 7rem;
+    width: 3rem;
+    margin-right: 2rem;
+}
+
+.input2{
+    color: black;
+    font-weight: bold;
+    font-size: 2rem;
+    background-color: #6C757D;
+    border-radius: 2rem;
+    border-color: black;
+    height: 7rem;
+    width: 3rem;
+    margin-left: 2rem;
+}
+
+.input3{
+    color: black;
+    font-weight: bold;
+    font-size: 1rem;
+    background-color: #6C757D;
+    border-radius: 2rem;
+    border-color: black;
+    height: 3rem;
+    width: 7rem;
+    margin-right: 2rem;
+    margin-left: 2rem;
+}
+
+.input4{
+    color: black;
+    font-weight: bold;
+    font-size: 1rem;
+    background-color: #6C757D;
+    border-radius: 2rem;
+    border-color: black;
+    height: 3rem;
+    width: 7rem;
+    margin-left: 2rem;
+    margin-right: 2rem;
+}
